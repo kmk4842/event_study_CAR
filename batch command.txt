@@ -1,0 +1,3 @@
+type *.txt > wse_stocks.csv
+
+header TICKER,PER,DATE,TIME,OPEN,HIGH,LOW,CLOSE,VOLUME,OPENINT
